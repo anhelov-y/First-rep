@@ -1,3 +1,3 @@
-print("Hello World")
-
-print("Hello Git")
+string = input()
+kilkist = 15
+print (string.center(kilkist, "_"))
